@@ -1,2 +1,1 @@
 hello b
-hello c from b
