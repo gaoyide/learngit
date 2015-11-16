@@ -1,2 +1,0 @@
-add e.txt
-add e.txt sec
